@@ -1,6 +1,40 @@
 {
-    "name":"Mutant Kong",
-    "description":"Official Mutant Kong Club Collection. Interoperability is the Key. Embrace Azhmir.",
-    "image":"https://raw.githubusercontent.com/kongzProject/mutantkongclub/main/tokenuri/template.gif",
-    "external_url":"/URL/"
+    "name":"Mutant Kong #1009",
+    "description":"Mutant Kong Club is a collection of Kongs observed by Dr.Xi on Azhmir, exhibiting strange physiological mutations due to the virus. With a new artistic twist on wonderfully crafted re-creation of MAYC's minding blowing traits, Azhmir introduces an interoperable ecosystem to the field.",
+    "image":"https://raw.githubusercontent.com/kongzProject/mutantkongclub/main/tokenuri/1009.png",
+    "external_url":"/URL/",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Orange"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Gold"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Hip Hop"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Cyborg"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Jovial"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Safari"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Gold Hoop 2"
+        },
+        {
+            "trait_type":"Origin",
+            "value":"Genesis"
+        }
+    ]
 }
